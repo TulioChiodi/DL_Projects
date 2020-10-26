@@ -1,6 +1,7 @@
 ## Project
 
 Project made following Valerio Velardo from The Sound of AI guide:
+
 https://www.youtube.com/playlist?list=PL-wATfeyAMNpCRQkKgtOZU_ykXc63oyzp
 
 
