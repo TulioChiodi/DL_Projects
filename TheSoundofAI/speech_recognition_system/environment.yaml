@@ -1,0 +1,12 @@
+name: speech_recognition
+channels:
+    - conda-forge
+dependencies:
+    - python
+    - pip
+    - numpy
+    - librosa
+    - tqdm
+    - scikit-learn
+    - tensorflow 
+    - flake8
